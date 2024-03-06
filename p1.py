@@ -12,5 +12,4 @@ print(Sum1, Sum2)
 Sum1 = 1
 if Factorial % 2 == 0:
     Sum1 += (Factorial - 1) // 2
-
-print(Sum1)
+    print(Sum1)
